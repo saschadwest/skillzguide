@@ -15,7 +15,7 @@ I was unable to unable to use VAULT effectively becuase the requirement was to u
 Basically I had to sit down and learn how to use Docker. I watched many hours of docker videos and completed various smaller projects before I had an understanding of the what/whys/hows of docker. Once I understood docker then it was time to add VAULT to docker. From there I had to learn the configuration of VAULT through Docker and also I had to develop a greater understaning of NGINX configuration so that I can connect Vault behind NGINX and still maintain TLS. 
 </p>
 
-## Congifguring VAULT OPTIONS
+## Configuring VAULT OPTIONS
 
 ### Docker
 
